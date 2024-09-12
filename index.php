@@ -6,9 +6,9 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<meta name="description" content="Renove Wellness Website">
 		<meta name="author" content="Will Davies Vasconcelos">
-		<meta name="generator" content="Notepad++">
+		<meta name="generator" content="vim">
 		<title>Renove Wellness</title>
-		<link rel="canonical" href="https://www.renove.co/">
+		<link rel="canonical" href="https://www.renovewellness.com/">
 		<link rel="stylesheet" href="css/css.css">
 		<link href="css/bootstrap.min.css" rel="stylesheet">
 		<link href="css/style.css" rel="stylesheet">
